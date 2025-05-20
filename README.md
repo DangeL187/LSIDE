@@ -13,7 +13,7 @@ It's designed for those who want an **easy-to-use** and attractive TUI IDE.
 # 🔥 Features
 - 🧠 **No Vim-motions**, although there are many features to help you navigate through the code blazingly fast
 - 🚫 **No superfluous or identical features**
-- 🎨 **Syntax highlighting** (TypeScript, Folding, Smart Tabs)
+- 🎨 **Syntax features** (Highlighting, Folding, Smart Tabs)
 - 🪟 **Powerful window system**: tiling, resizing, navigation
 - ⚡ **Simple shortcut system** and **Command palette**
 - 🛠️ **Plugin architecture** for easy extension
